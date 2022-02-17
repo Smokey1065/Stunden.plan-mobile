@@ -22,7 +22,7 @@ body {
         lightgreen
     );
     color: white;
-    background-image: url(https://www.sketchnotes-by-diana.com/wp-content/uploads/2021/08/Stundenplan-Sketchnotes-1024x768.jpg);
+    background-repeat: no-repeat;
 }
 
 #tbody {
