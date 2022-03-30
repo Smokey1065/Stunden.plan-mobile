@@ -39,6 +39,11 @@ body {
 }
 
 .stundenplan7a{
-    height: 110px;
-    padding-left: 6px;
+    height: 150px;
+    padding-left: 1px;
+}
+
+.stundenplan6b{
+    height: 150px;
+    padding-left: 1px;
 }
